@@ -1,0 +1,9 @@
+# .tbls.yml
+
+# DSN (Database Source Name) to connect database
+# .tbls.yml
+dsn: mongodb://localhost:27017/test57
+
+# Path to generate document
+# Default is `dbdoc`
+docPath: doc/mongodb
